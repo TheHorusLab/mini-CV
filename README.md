@@ -1,6 +1,6 @@
 # Mini CV Jonathan Gorine
 
-<img src="https://i.postimg.cc/j2htft5b/photo-profil-gh.jpg)](https://postimg.cc/7JbF8v0s" width=210 height=200>
+<img src="https://i.postimg.cc/j2htft5b/photo-profil-gh.jpg)](https://postimg.cc/7JbF8v0s" width=220 height=200>
 
 ### Présentation
 En reconversion dans le domaine des systèmes et réseaux _(Formation TSSR en cours)_.  
