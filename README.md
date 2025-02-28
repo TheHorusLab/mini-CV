@@ -1,10 +1,11 @@
 # Mini CV Jonathan Gorine
 
-<img src="https://i.postimg.cc/j2htft5b/photo-profil-gh.jpg)](https://postimg.cc/7JbF8v0s" width=220 height=200>
+
+<img src="https://i.postimg.cc/CLSPC1VW/image-profil.png)](https://postimg.cc/pycJRPrZ" width=220 height=200>
 
 ### Présentation
 En reconversion dans le domaine des systèmes et réseaux _(Formation TSSR en cours)_.  
-Après plusieurs années à naviguer d'emploi en emploi suivi d'une introspection qui allait donner un sens à ma vie professionnelle, j'ai décidé de revenir vers ce qui me plaît et me fais vibrer depuis ma jeunesse : l'informatique.  
+Un monde passionant et une aventure qui ne fait que commencer!  
 Alors cap sur ce monde! direction : les systèmes, les réseaux, la cybersécurité.  
 Armé de la Détermination et de la Passion, je suis prêt !
 
