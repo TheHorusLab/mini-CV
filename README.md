@@ -39,7 +39,7 @@ de vol.
 ### Hobbies
 - informatique  
 - musique  
-- danse
+- danse Hip-Hop
 
 #### Plus d'info:  
 La [formation TSSR](https://www.wildcodeschool.com/fr-fr/formation-technicien-systemes-et-reseaux)  
