@@ -37,8 +37,8 @@ de vol.
 
 
 ### <ins>Hobbies
-- informatique  
-- musique  
+- informatique :computer:
+- musique :notes: 
 - danse Hip-Hop
 
 #### <ins>Plus d'info:  
