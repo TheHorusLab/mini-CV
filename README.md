@@ -39,7 +39,7 @@ de vol.
 ### <ins>Hobbies
 - informatique :computer:
 - musique :notes: 
-- danse Hip-Hop
+- cinéma :movie_camera:
 
 #### <ins>Plus d'info:  
 La [formation TSSR](https://www.wildcodeschool.com/fr-fr/formation-technicien-systemes-et-reseaux)  
